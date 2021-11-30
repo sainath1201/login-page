@@ -1,0 +1,16 @@
+.login-container{
+  margin-bottom: 25vh;
+  padding-left: 35%;
+  width: 65%;
+}
+.new-user{
+  padding-top: 1vh;
+}
+.Forgot{
+  padding-top: 1vh;
+}
+.background{
+  background-image: url(image.jpg);
+  background-repeat: no-repeat;
+  background-size: 1400px 700px;
+}
